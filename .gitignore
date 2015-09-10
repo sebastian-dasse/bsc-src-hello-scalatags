@@ -1,0 +1,18 @@
+## SBT ##
+target/
+
+## Eclipse ##
+.settings/
+.classpath
+.project
+.cache*
+
+## IntelliJ ##
+.idea/
+#.idea/workspace.xml
+.idea_modules/
+
+## Node.js ##
+node_modules/
+
+*.log
